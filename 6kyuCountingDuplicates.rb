@@ -12,4 +12,6 @@ def duplicate_count(text)
   dupe_arr.length
 end
 
+puts "test"
+
 duplicate_count('aabbBcdefg')
